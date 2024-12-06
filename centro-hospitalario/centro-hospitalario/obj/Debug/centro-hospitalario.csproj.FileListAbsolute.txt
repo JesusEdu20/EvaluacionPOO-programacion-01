@@ -1,0 +1,5 @@
+C:\Users\ddd\Documents\SharpDevelop Projects\centro-hospitalario\centro-hospitalario\obj\Debug\centro-hospitalario.csprojResolveAssemblyReference.cache
+C:\Users\ddd\Documents\SharpDevelop Projects\centro-hospitalario\centro-hospitalario\bin\Debug\centro-hospitalario.exe
+C:\Users\ddd\Documents\SharpDevelop Projects\centro-hospitalario\centro-hospitalario\bin\Debug\centro-hospitalario.pdb
+C:\Users\ddd\Documents\SharpDevelop Projects\centro-hospitalario\centro-hospitalario\obj\Debug\centro-hospitalario.exe
+C:\Users\ddd\Documents\SharpDevelop Projects\centro-hospitalario\centro-hospitalario\obj\Debug\centro-hospitalario.pdb
