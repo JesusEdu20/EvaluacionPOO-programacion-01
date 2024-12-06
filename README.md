@@ -1,0 +1,2 @@
+# Instrucciones
+En el desarrollo debe presentarse las propiedades de Herencia, Polimorfismo, Encapsulamiento y Abstracción, además de plantear una Interface, la clase Abstracta debe plantear tres atributos/propiedades y tres métodos, en el caso de cada clase que hereda, debe tener por lo menos un atributo/propiedad propio así como un método propio. La definición de atributos y métodos queda a criterio de los programadores.
